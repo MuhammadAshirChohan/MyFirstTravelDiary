@@ -1,0 +1,25 @@
+*{padding: 0px;
+margin:0px;
+}
+li{display:flex;
+margin:auto;}
+ul,li a {display:flex;
+text-decoration-line: none;
+padding:25px;
+margin:auto;
+font-size: larger;
+transition:0.3s;
+color:rgb(2, 255, 242);
+status:active; }
+a:hover {color:rgb(255, 3, 3);
+font-size: 25px;}
+body {background:linear-gradient(to bottom,#490000,#70012c);
+color:white;}
+#body3 {background-repeat: no-repeat;
+background:linear-gradient(to bottom,#490d09,#03015c,#490000,#03015c);}
+a:active {color: rgb(255, 255, 255);}
+img{transition:0.3s;
+margin:center;
+padding:5px;}
+img:hover {width:310px;
+height:310px;}
